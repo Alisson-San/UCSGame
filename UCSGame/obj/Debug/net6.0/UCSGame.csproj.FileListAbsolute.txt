@@ -1,0 +1,14 @@
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\bin\Debug\net6.0\UCSGame.exe
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\bin\Debug\net6.0\UCSGame.deps.json
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\bin\Debug\net6.0\UCSGame.runtimeconfig.json
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\bin\Debug\net6.0\UCSGame.dll
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\bin\Debug\net6.0\UCSGame.pdb
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\obj\Debug\net6.0\UCSGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\obj\Debug\net6.0\UCSGame.AssemblyInfoInputs.cache
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\obj\Debug\net6.0\UCSGame.AssemblyInfo.cs
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\obj\Debug\net6.0\UCSGame.csproj.CoreCompileInputs.cache
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\obj\Debug\net6.0\UCSGame.dll
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\obj\Debug\net6.0\refint\UCSGame.dll
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\obj\Debug\net6.0\UCSGame.pdb
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\obj\Debug\net6.0\UCSGame.genruntimeconfig.cache
+D:\Linguagens\CursoUCS\UCSGame\UCSGame\obj\Debug\net6.0\ref\UCSGame.dll
